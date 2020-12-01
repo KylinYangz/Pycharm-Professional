@@ -60,9 +60,11 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201123183103731.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2FtbW1tYWE=,size_16,color_FFFFFF,t_70#pic_center) <br>
 这样就完美完成Pycharm2020.2.3的安装和破解了0.0
 
+#  注意
+ 这里需要说明一点的是，在我提交第一版之后我发现这个并不是破解完就一劳永逸的，好像会出现回到起点的状况，这也是为什么我为破解包加上时间戳的原因，希望我可以及时发现并及时上传破解包，或者我需要找到一个一劳永逸的办法0.0，若我没能及时上传或者安装中有什么问题，可以通过我的博客找到我和我交流（博客地址在下面）。
 # 总结
 <font color=#999AAA >希望对大家有所帮助（这里主要是借鉴了B站的一个视频，在这里感谢大佬的分享[大佬nb](https://www.bilibili.com/video/BV1PD4y1d7Ug?t=466)）。也欢迎大家通过博客与我交流，我们共同学习、进步！
-[![](https://img.shields.io/badge/blog-@KylinYang-red.svg)](https://blog.csdn.net/ammmmaa?spm=1010.2135.3001.5113)<br>
+<br>[![](https://img.shields.io/badge/blog博客-@KylinYang-red.svg)](https://blog.csdn.net/ammmmaa?spm=1010.2135.3001.5113)
                                                                                                                        
 
 
